@@ -1,0 +1,26 @@
+{
+  "name": "ala-1",
+  "version": "1.0.0",
+  "description": "ALA-1-PdeP-2026",
+  "keywords": [
+    "JavaScript"
+  ],
+  "homepage": "https://github.com/Andy8701/ALA-1-PdeP-2026#readme",
+  "bugs": {
+    "url": "https://github.com/Andy8701/ALA-1-PdeP-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy8701/ALA-1-PdeP-2026.git"
+  },
+  "license": "ISC",
+  "author": "Andy",
+  "type": "commonjs",
+  "main": "Calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
